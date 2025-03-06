@@ -42,7 +42,6 @@
   #block(smallcaps(it.body))
   #counter("").step()
 ]
-#let display(sub) = { }
 
 = 中国计算机学会推荐国际学术会议和期刊目录
 
